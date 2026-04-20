@@ -2,7 +2,6 @@ ubuntu:
   jammy/22.04
   noble/24.04
   questing/25.10
-  resolute/26.04
   devel
 debian:
   bullseye/11
